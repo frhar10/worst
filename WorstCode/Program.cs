@@ -1,0 +1,3 @@
+﻿using System;namespace WorstCode{class Program{static void Main(string[] args){Console.WriteLine("Worst Code");int selle = 3;Console.WriteLine("Tal 1: ");string f = Console.ReadLine();
+float gg = float.Parse(f);Console.WriteLine("Tal 2: ");string g = Console.ReadLine();float ff = float.Parse(g);var sloss = gg;
+var jawil = ff;if (gg != jawil) {var hi = sloss + ff;Console.WriteLine(gg + " + " + jawil + " = " + hi);}else {var hi = (sloss + ff) * selle;Console.WriteLine(hi);}}}}

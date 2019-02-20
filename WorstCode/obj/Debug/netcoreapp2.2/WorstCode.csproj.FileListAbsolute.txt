@@ -1,0 +1,11 @@
+/Users/Frederikke/Projects/WorstCode/WorstCode/bin/Debug/netcoreapp2.2/WorstCode.deps.json
+/Users/Frederikke/Projects/WorstCode/WorstCode/bin/Debug/netcoreapp2.2/WorstCode.runtimeconfig.json
+/Users/Frederikke/Projects/WorstCode/WorstCode/bin/Debug/netcoreapp2.2/WorstCode.runtimeconfig.dev.json
+/Users/Frederikke/Projects/WorstCode/WorstCode/bin/Debug/netcoreapp2.2/WorstCode.dll
+/Users/Frederikke/Projects/WorstCode/WorstCode/bin/Debug/netcoreapp2.2/WorstCode.pdb
+/Users/Frederikke/Projects/WorstCode/WorstCode/obj/Debug/netcoreapp2.2/WorstCode.csprojAssemblyReference.cache
+/Users/Frederikke/Projects/WorstCode/WorstCode/obj/Debug/netcoreapp2.2/WorstCode.csproj.CoreCompileInputs.cache
+/Users/Frederikke/Projects/WorstCode/WorstCode/obj/Debug/netcoreapp2.2/WorstCode.AssemblyInfoInputs.cache
+/Users/Frederikke/Projects/WorstCode/WorstCode/obj/Debug/netcoreapp2.2/WorstCode.AssemblyInfo.cs
+/Users/Frederikke/Projects/WorstCode/WorstCode/obj/Debug/netcoreapp2.2/WorstCode.dll
+/Users/Frederikke/Projects/WorstCode/WorstCode/obj/Debug/netcoreapp2.2/WorstCode.pdb
